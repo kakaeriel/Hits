@@ -9,7 +9,7 @@
         "counter",
         "view count"
     ],
-    "homepage": "https://github.com/usemuffin/hits",
+    "homepage": "https://github.com/kakaeriel/cakephp-hits",
     "license": "MIT",
     "authors": [
         {
@@ -31,7 +31,7 @@
         "cakephp/orm": "3.*"
     },
     "require-dev": {
-        "cakephp/cakephp": "~3.0",
+        "cakephp/cakephp": "~3.5”,
         "cakephp/cakephp-codesniffer": "2.*",
         "phpunit/phpunit": "4.1.*"
     },
