@@ -1,9 +1,10 @@
 {
-    "name": "muffin/hits",
+    "name": "kakaeriel/cakephp-hits",
     "description": "Hits (view) counter for CakePHP 3 ORM.",
     "type": "cakephp-plugin",
     "keywords": [
         "cakephp",
+        "kakaeriel",
         "muffin",
         "counter",
         "view count"
@@ -22,14 +23,10 @@
             "role": "Author"
         },
         {
-            "name": "Others",
-            "homepage": "https://github.com/usemuffin/hits/graphs/contributors"
+            "name": "Hairil Ibnuh",
+            "homepage": "http://plaminan.com"
         }
     ],
-    "support": {
-        "issues": "https://github.com/usemuffin/hits/issues",
-        "source": "https://github.com/usemuffin/hits"
-    },
     "require": {
         "cakephp/orm": "3.*"
     },
@@ -40,12 +37,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Muffin\\Hits\\": "src"
+            "kakaeriel\\cakephp-hits\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Muffin\\Hits\\Test\\": "tests"
+            "kakaeriel\\cakephp-hits\\Test\\": "tests"
         }
     },
     "extra": {
