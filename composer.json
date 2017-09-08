@@ -31,8 +31,8 @@
         "cakephp/orm": "3.*"
     },
     "require-dev": {
-        "cakephp/cakephp": "~3.5”,
-        "cakephp/cakephp-codesniffer": “3.*”,
+        "cakephp/cakephp": "~3.5.*”,
+	"cakephp/cakephp-codesniffer": “3.*”,
         "phpunit/phpunit": "4.1.*"
     },
     "autoload": {
